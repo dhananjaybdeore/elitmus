@@ -1,0 +1,44 @@
+.signin {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: gray;
+  .signin__subdiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    // border: 2px solid rgb(179, 177, 177);
+    padding: 2rem;
+    border-radius: 20px;
+    background: white;
+  }
+  p {
+    font-size: 2rem;
+    margin: 0;
+  }
+  img {
+    height: 15vw;
+    width: 15vw;
+    border-radius: 50%;
+    margin: 2rem;
+    // margin-top: 0;
+  }
+  button {
+    background: black;
+    color: white;
+    padding: 1rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    &:hover {
+      -webkit-box-shadow: 3px 11px 19px -10px rgba(0, 0, 0, 0.75);
+      -moz-box-shadow: 3px 11px 19px -10px rgba(0, 0, 0, 0.75);
+      box-shadow: 3px 11px 19px -10px rgba(0, 0, 0, 0.75);
+    }
+  }
+}
