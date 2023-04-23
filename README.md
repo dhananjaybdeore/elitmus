@@ -18,20 +18,20 @@ Open your web browser and go to http://localhost:3000 to see the running applica
      5 clues
      2 dead-ends
      1 solution 
--All the progress / user data (eg - time taken by each user for every step) is stored for each user  \n
--On refreshing, from either browser or website, the puzzle  starts from the same step or given the user an option to restart \n
+-All the progress / user data (eg - time taken by each user for every step) is stored for each user  
+-On refreshing, from either browser or website, the puzzle  starts from the same step or given the user an option to restart 
 -A dashboard for the admin where the progress of all the users can be tracked & analyzed \n
--In admin dashboard, admin can sort the users by their name, number of steps completed and total time taken complete the puzzle \n
+-In admin dashboard, admin can sort the users by their name, number of steps completed and total time taken complete the puzzle 
 
-#Possible way to solve this puzzle: \n
-Answer for 1st clue: maharashtra \n
-Answer of 2nd clue: - correct answer => sambhajinagar \n
-                    - answer for deadend 1 => dharashiv \n
-Answer of 3rd clue: - correct answer => panhala \n
-                    - answer for deadend 2=> pratapgad \n
+#Possible way to solve this puzzle: 
+Answer for 1st clue: maharashtra
+Answer of 2nd clue: - correct answer => sambhajinagar 
+                    - answer for deadend 1 => dharashiv 
+Answer of 3rd clue: - correct answer => panhala 
+                    - answer for deadend 2=> pratapgad 
                     
-Answer of 4th clue: - bajiprabhu deshpande \n
-Answer of 5th clue - dand patta \n
+Answer of 4th clue: - bajiprabhu deshpande 
+Answer of 5th clue - dand patta 
 
                     
                     
